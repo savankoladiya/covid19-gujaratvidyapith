@@ -1,0 +1,116 @@
+<div class="row text-center mt-5">
+  <div class="col-12 col-md-3 col-lg-3 card bg-dark p-1 mt-3">
+        <h6 class="text-white">Confirmed Cases</h6>
+        <h6 class="text-primary mt-2">{{confirm}}</h6>
+  </div>
+  <div class="col-12 col-md-3 col-lg-3 card bg-dark p-1 mt-3">
+    <h6 class="text-white">Recovered Cases</h6>
+    <h6 class="text-success mt-2">{{recoverd}}</h6>
+  </div>
+  <div class="col-12 col-md-3 col-lg-3 card bg-dark p-1 mt-3">
+    <h6 class="text-white">Deaths Cases</h6>
+    <h6 class="text-danger mt-2">{{deths}}</h6>
+  </div>
+  <div class="col-12 col-md-3 col-lg-3 card bg-dark p-1 mt-3">
+    <h6 class="text-white">Active Cases</h6>
+    <h6 class="text-warning mt-2">{{active}}</h6>
+  </div>
+
+  </div>
+
+<div class="row mt-2">
+  <div class="col-12 col-md-9 col-lg-9">
+    <div class="col-12 col-md-12 col-lg-12 card">
+
+      <fusioncharts
+       width="100%"
+       height="600"
+       type="mscombidy2d"
+       dataFormat="json"
+       [dataSource]="dataSource">
+       </fusioncharts>
+</div> 
+<div class="row my-3">
+  <div class="col-12 col-md-3 col-lg-3">
+  </div>
+  <div class="col-12 col-md-3 col-lg-3 text-center">
+    <div class="card" id="id1"> </div>
+  </div>
+  <div class="col-12 col-md-3 col-lg-3 text-center">
+    <div class="card" id="id2"> </div>
+  </div>
+  <div class="col-12 col-md-3 col-lg-3">
+  </div>
+
+</div>
+
+<div class="col-12 col-md-12 col-lg-12 card">
+  
+        <fusioncharts
+         width="100%"
+         height="600"
+         [type]="type"
+         [dataFormat]="dataFormat"
+         [dataSource]="dataSource1"
+         [events] = "events"
+         (initialized)="initialized($event)"
+         >
+         </fusioncharts>
+
+         <fusioncharts
+       width="100%"
+       height="600"
+       type="timeseries"
+       [dataSource]="dataSource3">
+       </fusioncharts>
+
+       <!-- <fusioncharts
+       width="100%"
+       height="600"
+       type="timeseries"
+       [dataSource]="dataSource4">
+       </fusioncharts>  -->
+
+       <div class="row">
+
+        <div class="col-sm-12 col-md-12 col-lg-12">
+        
+          <select  (change)="state($event.target.value)">
+               <option *ngFor="let states of StateList"  value={{states}}>
+                   {{ states }}
+               </option>
+              </select>
+        
+        
+              <fusioncharts
+              width="100%"
+              height="600"
+              type="timeseries"
+              [dataSource]="dataSource5">
+              </fusioncharts>
+        
+        </div>
+        </div>
+
+       
+</div>
+  </div>  
+  <div class="col-12 col-md-3 col-lg-3 card">
+    <table class="table table-striped">
+      <tr>
+        <td><b>State</b></td>
+        <td><b>Cases</b></td>
+    </tr>
+        <tr *ngFor="let data of coronaData">
+                <td>{{data.stateName}}</td>
+                <td>{{data.stateCase}}</td>
+        </tr>
+        <tr>
+           <td><b>Total</b></td>
+           <td><b>{{total}}</b></td>
+        </tr>
+    </table>
+
+</div>
+
+</div>

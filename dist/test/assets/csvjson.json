@@ -1,0 +1,306 @@
+[
+  {
+    "date": "3/14/20",
+    "Predicted_NoAtGujarat_Model_1_A": 111.371958,
+    "Actual": 0
+  },{
+    "date": "3/15/20",
+    "Predicted_NoAtGujarat_Model_1_A": 111.371958,
+    "Actual": 0
+  },
+  {
+    "date": "3/16/20",
+    "Predicted_NoAtGujarat_Model_1_A": 130.252289,
+    "Actual": 0
+  },
+  {
+    "date": "3/17/20",
+    "Predicted_NoAtGujarat_Model_1_A": 162.7293079,
+    "Actual": 0
+  },
+  {
+    "date": "3/18/20",
+    "Predicted_NoAtGujarat_Model_1_A": 189.0309144,
+    "Actual": 0
+  },
+  {
+    "date": "3/19/20",
+    "Predicted_NoAtGujarat_Model_1_A": 282.0549367,
+    "Actual": 2
+  },
+  {
+    "date": "3/20/20",
+    "Predicted_NoAtGujarat_Model_1_A": 461.1909442,
+    "Actual": 7
+  },
+  {
+    "date": "3/21/20",
+    "Predicted_NoAtGujarat_Model_1_A": 654.9104364,
+    "Actual": 14
+  },
+  {
+    "date": "3/22/20",
+    "Predicted_NoAtGujarat_Model_1_A": 1038.912561,
+    "Actual": 18
+  },
+  {
+    "date": "3/23/20",
+    "Predicted_NoAtGujarat_Model_1_A": 836.3578879,
+    "Actual": 30
+  },
+  {
+    "date": "3/24/20",
+    "Predicted_NoAtGujarat_Model_1_A": 877.1839272,
+    "Actual": 34
+  },
+  {
+    "date": "3/25/20",
+    "Predicted_NoAtGujarat_Model_1_A": 926.2441953,
+    "Actual": 38
+  },
+  {
+    "date": "3/26/20",
+    "Predicted_NoAtGujarat_Model_1_A": 933.9432276,
+    "Actual": 43
+  },
+  {
+    "date": "3/27/20",
+    "Predicted_NoAtGujarat_Model_1_A": 897.7155008,
+    "Actual": 47
+  },
+  {
+    "date": "3/28/20",
+    "Predicted_NoAtGujarat_Model_1_A": 893.7912771,
+    "Actual": 55
+  },
+  {
+    "date": "3/29/20",
+    "Predicted_NoAtGujarat_Model_1_A": 850.1330729,
+    "Actual": 63
+  },
+  {
+    "date": "3/30/20",
+    "Predicted_NoAtGujarat_Model_1_A": 864.2750879,
+    "Actual": 70
+  },
+  {
+    "date": "3/31/20",
+    "Predicted_NoAtGujarat_Model_1_A": 823.798035,
+    "Actual": 74
+  },
+  {
+    "date": "4/1/20",
+    "Predicted_NoAtGujarat_Model_1_A": 807.559226,
+    "Actual": 87
+  },
+  {
+    "date": "4/2/20",
+    "Predicted_NoAtGujarat_Model_1_A": 734.611148,
+    "Actual": 88
+  },
+  {
+    "date": "4/3/20",
+    "Predicted_NoAtGujarat_Model_1_A": 617.4890068,
+    "Actual": 95
+  },
+  {
+    "date": "4/4/20",
+    "Predicted_NoAtGujarat_Model_1_A": 607.767028,
+    "Actual": 108
+  },
+  {
+    "date": "4/5/20",
+    "Predicted_NoAtGujarat_Model_1_A": 574.2370546,
+    "Actual": 128
+  },
+  {
+    "date": "4/6/20",
+    "Predicted_NoAtGujarat_Model_1_A": 449.9397501,
+    "Actual": 146
+  },
+  {
+    "date": "4/7/20",
+    "Predicted_NoAtGujarat_Model_1_A": 428.9108878,
+    "Actual": 175
+  },
+  {
+    "date": "4/8/20",
+    "Predicted_NoAtGujarat_Model_1_A": 453.464504,
+    "Actual": 186
+  },
+  {
+    "date": "4/9/20",
+    "Predicted_NoAtGujarat_Model_1_A": 407.2883174,
+    "Actual": 262
+  },
+  {
+    "date": "4/10/20",
+    "Predicted_NoAtGujarat_Model_1_A": 445.0887173,
+    "Actual": 378
+  },
+  {
+    "date": "4/11/20",
+    "Predicted_NoAtGujarat_Model_1_A": 606.2288797,
+    "Actual": 468
+  },
+  {
+    "date": "4/12/20",
+    "Predicted_NoAtGujarat_Model_1_A": 624.0818357,
+    "Actual": 516
+  },
+  {
+    "date": "4/13/20",
+    "Predicted_NoAtGujarat_Model_1_A": 809.0721886,
+    "Actual": 538
+  },
+  {
+    "date": "4/14/20",
+    "Predicted_NoAtGujarat_Model_1_A": 926.0625039,
+    "Actual": 650
+  },
+  {
+    "date": "4/15/20",
+    "Predicted_NoAtGujarat_Model_1_A": 913.2441158,
+    "Actual": 766
+  },
+  {
+    "date": "4/16/20",
+    "Predicted_NoAtGujarat_Model_1_A": 1035.191655,
+    "Actual": 929
+  },
+  {
+    "date": "4/17/20",
+    "Predicted_NoAtGujarat_Model_1_A": 1527.123584,
+    "Actual": 1100
+  },
+  {
+    "date": "4/18/20",
+    "Predicted_NoAtGujarat_Model_1_A": 1974.366583,
+    "Actual": 1380
+  },
+  {
+    "date": "4/19/20",
+    "Predicted_NoAtGujarat_Model_1_A": 2722.214497,
+    "Actual": 1740
+  },
+  {
+    "date": "4/20/20",
+    "Predicted_NoAtGujarat_Model_1_A": 3445.1759,
+    "Actual": ""
+  },
+  {
+    "date": "4/21/20",
+    "Predicted_NoAtGujarat_Model_1_A": 4014.660664,
+    "Actual": ""
+  },
+  {
+    "date": "4/22/20",
+    "Predicted_NoAtGujarat_Model_1_A": 4851.574004,
+    "Actual": ""
+  },
+  {
+    "date": "4/23/20",
+    "Predicted_NoAtGujarat_Model_1_A": 5739.05918,
+    "Actual": ""
+  },
+  {
+    "date": "4/24/20",
+    "Predicted_NoAtGujarat_Model_1_A": 6892.269285,
+    "Actual": ""
+  },
+  {
+    "date": "4/25/20",
+    "Predicted_NoAtGujarat_Model_1_A": 7100.865887,
+    "Actual": ""
+  },
+  {
+    "date": "4/26/20",
+    "Predicted_NoAtGujarat_Model_1_A": 6966.880426,
+    "Actual": ""
+  },
+  {
+    "date": "4/27/20",
+    "Predicted_NoAtGujarat_Model_1_A": 7214.416347,
+    "Actual": ""
+  },
+  {
+    "date": "4/28/20",
+    "Predicted_NoAtGujarat_Model_1_A": 7007.444032,
+    "Actual": ""
+  },
+  {
+    "date": "4/29/20",
+    "Predicted_NoAtGujarat_Model_1_A": 7050.723109,
+    "Actual": ""
+  },
+  {
+    "date": "4/30/20",
+    "Predicted_NoAtGujarat_Model_1_A": 7050.723109,
+    "Actual": ""
+  },
+  {
+    "date": "5/1/20",
+    "Predicted_NoAtGujarat_Model_1_A": 7050.723109,
+    "Actual": ""
+  },
+  {
+    "date": "5/2/20",
+    "Predicted_NoAtGujarat_Model_1_A": 7189.955977,
+    "Actual": ""
+  },
+  {
+    "date": "5/3/20",
+    "Predicted_NoAtGujarat_Model_1_A": 7050.723109,
+    "Actual": ""
+  },
+  {
+    "date": "5/4/20",
+    "Predicted_NoAtGujarat_Model_1_A": 7050.723109,
+    "Actual": ""
+  },
+  {
+    "date": "5/5/20",
+    "Predicted_NoAtGujarat_Model_1_A": 7050.723109,
+    "Actual": ""
+  },
+  {
+    "date": "5/6/20",
+    "Predicted_NoAtGujarat_Model_1_A": 7050.723109,
+    "Actual": ""
+  },
+  {
+    "date": "5/7/20",
+    "Predicted_NoAtGujarat_Model_1_A": 7189.955977,
+    "Actual": ""
+  },
+  {
+    "date": "5/8/20",
+    "Predicted_NoAtGujarat_Model_1_A": 7050.723109,
+    "Actual": ""
+  },
+  {
+    "date": "5/9/20",
+    "Predicted_NoAtGujarat_Model_1_A": 7050.723109,
+    "Actual": ""
+  },
+  {
+    "date": "5/10/20",
+    "Predicted_NoAtGujarat_Model_1_A": 7050.723109,
+    "Actual": ""
+  },
+  {
+    "date": "5/11/20",
+    "Predicted_NoAtGujarat_Model_1_A": 7050.723109,
+    "Actual": ""
+  },
+  {
+    "date": "5/12/20",
+    "Predicted_NoAtGujarat_Model_1_A": 7189.955977,
+    "Actual": ""
+  },
+  {
+    "date": "5/13/20",
+    "Predicted_NoAtGujarat_Model_1_A": 7050.723109,
+    "Actual": ""
+  }
+]

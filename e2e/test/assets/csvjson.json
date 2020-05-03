@@ -1,0 +1,618 @@
+[
+  {
+    "NO": 1,
+    "date": "03-16-2020",
+    "Predicted_NoAtGujarat_Model_1_A": 3,
+    "Lower Limit": -31,
+    "Upper Limit": 37,
+    "Actual": 0
+  },
+  {
+    "NO": 2,
+    "date": "03-17-2020",
+    "Predicted_NoAtGujarat_Model_1_A": 3,
+    "Lower Limit": -31,
+    "Upper Limit": 37,
+    "Actual": 0
+  },
+  {
+    "NO": 3,
+    "date": "03-18-2020",
+    "Predicted_NoAtGujarat_Model_1_A": 3,
+    "Lower Limit": -31,
+    "Upper Limit": 37,
+    "Actual": 0
+  },
+  {
+    "NO": 4,
+    "date": "3-19-2020",
+    "Predicted_NoAtGujarat_Model_1_A": 3,
+    "Lower Limit": -31,
+    "Upper Limit": 37,
+    "Actual": 2
+  },
+  {
+    "NO": 5,
+    "date": "3-20-2020",
+    "Predicted_NoAtGujarat_Model_1_A": 7,
+    "Lower Limit": -27,
+    "Upper Limit": 41,
+    "Actual": 7
+  },
+  {
+    "NO": 6,
+    "date": "3-21-2020",
+    "Predicted_NoAtGujarat_Model_1_A": 15,
+    "Lower Limit": -19,
+    "Upper Limit": 49,
+    "Actual": 14
+  },
+  {
+    "NO": 7,
+    "date": "3-22-2020",
+    "Predicted_NoAtGujarat_Model_1_A": 24,
+    "Lower Limit": -10,
+    "Upper Limit": 58,
+    "Actual": 18
+  },
+  {
+    "NO": 8,
+    "date": "3-23-2020",
+    "Predicted_NoAtGujarat_Model_1_A": 25,
+    "Lower Limit": -9,
+    "Upper Limit": 59,
+    "Actual": 30
+  },
+  {
+    "NO": 9,
+    "date": "3-24-2020",
+    "Predicted_NoAtGujarat_Model_1_A": 45,
+    "Lower Limit": 11,
+    "Upper Limit": 79,
+    "Actual": 34
+  },
+  {
+    "NO": 10,
+    "date": "3-25-2020",
+    "Predicted_NoAtGujarat_Model_1_A": 41,
+    "Lower Limit": 7,
+    "Upper Limit": 75,
+    "Actual": 38
+  },
+  {
+    "NO": 11,
+    "date": "3-26-2020",
+    "Predicted_NoAtGujarat_Model_1_A": 45,
+    "Lower Limit": 11,
+    "Upper Limit": 79,
+    "Actual": 43
+  },
+  {
+    "NO": 12,
+    "date": "3-27-2020",
+    "Predicted_NoAtGujarat_Model_1_A": 51,
+    "Lower Limit": 17,
+    "Upper Limit": 85,
+    "Actual": 47
+  },
+  {
+    "NO": 13,
+    "date": "3-28-2020",
+    "Predicted_NoAtGujarat_Model_1_A": 54,
+    "Lower Limit": 20,
+    "Upper Limit": 88,
+    "Actual": 55
+  },
+  {
+    "NO": 14,
+    "date": "3-29-2020",
+    "Predicted_NoAtGujarat_Model_1_A": 66,
+    "Lower Limit": 32,
+    "Upper Limit": 100,
+    "Actual": 63
+  },
+  {
+    "NO": 15,
+    "date": "3-30-2020",
+    "Predicted_NoAtGujarat_Model_1_A": 74,
+    "Lower Limit": 40,
+    "Upper Limit": 108,
+    "Actual": 70
+  },
+  {
+    "NO": 16,
+    "date": "3-31-2020",
+    "Predicted_NoAtGujarat_Model_1_A": 80,
+    "Lower Limit": 46,
+    "Upper Limit": 114,
+    "Actual": 74
+  },
+  {
+    "NO": 17,
+    "date": "04-01-2020",
+    "Predicted_NoAtGujarat_Model_1_A": 81,
+    "Lower Limit": 47,
+    "Upper Limit": 115,
+    "Actual": 87
+  },
+  {
+    "NO": 18,
+    "date": "04-02-2020",
+    "Predicted_NoAtGujarat_Model_1_A": 103,
+    "Lower Limit": 69,
+    "Upper Limit": 137,
+    "Actual": 88
+  },
+  {
+    "NO": 19,
+    "date": "04-03-2020",
+    "Predicted_NoAtGujarat_Model_1_A": 92,
+    "Lower Limit": 58,
+    "Upper Limit": 126,
+    "Actual": 95
+  },
+  {
+    "NO": 20,
+    "date": "04-04-2020",
+    "Predicted_NoAtGujarat_Model_1_A": 105,
+    "Lower Limit": 71,
+    "Upper Limit": 139,
+    "Actual": 108
+  },
+  {
+    "NO": 21,
+    "date": "04-05-2020",
+    "Predicted_NoAtGujarat_Model_1_A": 124,
+    "Lower Limit": 90,
+    "Upper Limit": 158,
+    "Actual": 128
+  },
+  {
+    "NO": 22,
+    "date": "04-06-2020",
+    "Predicted_NoAtGujarat_Model_1_A": 151,
+    "Lower Limit": 117,
+    "Upper Limit": 185,
+    "Actual": 146
+  },
+  {
+    "NO": 23,
+    "date": "04-07-2020",
+    "Predicted_NoAtGujarat_Model_1_A": 167,
+    "Lower Limit": 133,
+    "Upper Limit": 201,
+    "Actual": 175
+  },
+  {
+    "NO": 24,
+    "date": "04-08-2020",
+    "Predicted_NoAtGujarat_Model_1_A": 207,
+    "Lower Limit": 173,
+    "Upper Limit": 241,
+    "Actual": 186
+  },
+  {
+    "NO": 25,
+    "date": "04-09-2020",
+    "Predicted_NoAtGujarat_Model_1_A": 200,
+    "Lower Limit": 166,
+    "Upper Limit": 234,
+    "Actual": 262
+  },
+  {
+    "NO": 26,
+    "date": "04-10-2020",
+    "Predicted_NoAtGujarat_Model_1_A": 341,
+    "Lower Limit": 307,
+    "Upper Limit": 375,
+    "Actual": 378
+  },
+  {
+    "NO": 27,
+    "date": "04-11-2020",
+    "Predicted_NoAtGujarat_Model_1_A": 497,
+    "Lower Limit": 463,
+    "Upper Limit": 531,
+    "Actual": 468
+  },
+  {
+    "NO": 28,
+    "date": "04-12-2020",
+    "Predicted_NoAtGujarat_Model_1_A": 561,
+    "Lower Limit": 527,
+    "Upper Limit": 595,
+    "Actual": 516
+  },
+  {
+    "NO": 29,
+    "date": "4-13-2020",
+    "Predicted_NoAtGujarat_Model_1_A": 658,
+    "Lower Limit": 582,
+    "Upper Limit": 734,
+    "Actual": ""
+  },
+  {
+    "NO": 30,
+    "date": "4/14/2020",
+    "Predicted_NoAtGujarat_Model_1_A": 758,
+    "Lower Limit": 630,
+    "Upper Limit": 886,
+    "Actual": ""
+  },
+  {
+    "NO": 31,
+    "date": "4/15/2020",
+    "Predicted_NoAtGujarat_Model_1_A": 861,
+    "Lower Limit": 674,
+    "Upper Limit": 1048,
+    "Actual": ""
+  },
+  {
+    "NO": 32,
+    "date": "4/16/2020",
+    "Predicted_NoAtGujarat_Model_1_A": 968,
+    "Lower Limit": 715,
+    "Upper Limit": 1221,
+    "Actual": ""
+  },
+  {
+    "NO": 33,
+    "date": "4/17/2020",
+    "Predicted_NoAtGujarat_Model_1_A": 1078,
+    "Lower Limit": 752,
+    "Upper Limit": 1404,
+    "Actual": ""
+  },
+  {
+    "NO": 34,
+    "date": "4/18/2020",
+    "Predicted_NoAtGujarat_Model_1_A": 1191,
+    "Lower Limit": 787,
+    "Upper Limit": 1595,
+    "Actual": ""
+  },
+  {
+    "NO": 35,
+    "date": "4/19/2020",
+    "Predicted_NoAtGujarat_Model_1_A": 1308,
+    "Lower Limit": 820,
+    "Upper Limit": 1796,
+    "Actual": ""
+  },
+  {
+    "NO": 36,
+    "date": "4/20/2020",
+    "Predicted_NoAtGujarat_Model_1_A": 1428,
+    "Lower Limit": 851,
+    "Upper Limit": 2005,
+    "Actual": ""
+  },
+  {
+    "NO": 37,
+    "date": "4/21/2020",
+    "Predicted_NoAtGujarat_Model_1_A": 1551,
+    "Lower Limit": 881,
+    "Upper Limit": 2221,
+    "Actual": ""
+  },
+  {
+    "NO": 38,
+    "date": "4/22/2020",
+    "Predicted_NoAtGujarat_Model_1_A": 1678,
+    "Lower Limit": 910,
+    "Upper Limit": 2446,
+    "Actual": ""
+  },
+  {
+    "NO": 39,
+    "date": "4/23/2020",
+    "Predicted_NoAtGujarat_Model_1_A": 1808,
+    "Lower Limit": 937,
+    "Upper Limit": 2679,
+    "Actual": ""
+  },
+  {
+    "NO": 40,
+    "date": "4/24/2020",
+    "Predicted_NoAtGujarat_Model_1_A": 1941,
+    "Lower Limit": 964,
+    "Upper Limit": 2919,
+    "Actual": ""
+  },
+  {
+    "NO": 41,
+    "date": "4/25/2020",
+    "Predicted_NoAtGujarat_Model_1_A": 2078,
+    "Lower Limit": 990,
+    "Upper Limit": 3166,
+    "Actual": ""
+  },
+  {
+    "NO": 42,
+    "date": "4/26/2020",
+    "Predicted_NoAtGujarat_Model_1_A": 2218,
+    "Lower Limit": 1015,
+    "Upper Limit": 3421,
+    "Actual": ""
+  },
+  {
+    "NO": 43,
+    "date": "4/27/2020",
+    "Predicted_NoAtGujarat_Model_1_A": 2361,
+    "Lower Limit": 1040,
+    "Upper Limit": 3682,
+    "Actual": ""
+  },
+  {
+    "NO": 44,
+    "date": "4/28/2020",
+    "Predicted_NoAtGujarat_Model_1_A": 2508,
+    "Lower Limit": 1065,
+    "Upper Limit": 3951,
+    "Actual": ""
+  },
+  {
+    "NO": 45,
+    "date": "4/29/2020",
+    "Predicted_NoAtGujarat_Model_1_A": 2658,
+    "Lower Limit": 1090,
+    "Upper Limit": 4226,
+    "Actual": ""
+  },
+  {
+    "NO": 46,
+    "date": "4/30/2020",
+    "Predicted_NoAtGujarat_Model_1_A": 2811,
+    "Lower Limit": 1114,
+    "Upper Limit": 4509,
+    "Actual": ""
+  },
+  {
+    "NO": 47,
+    "date": "05-01-2020",
+    "Predicted_NoAtGujarat_Model_1_A": 2968,
+    "Lower Limit": 1138,
+    "Upper Limit": 4798,
+    "Actual": ""
+  },
+  {
+    "NO": 48,
+    "date": "05-02-2020",
+    "Predicted_NoAtGujarat_Model_1_A": 3128,
+    "Lower Limit": 1163,
+    "Upper Limit": 5093,
+    "Actual": ""
+  },
+  {
+    "NO": 49,
+    "date": "05-03-2020",
+    "Predicted_NoAtGujarat_Model_1_A": 3291,
+    "Lower Limit": 1187,
+    "Upper Limit": 5395,
+    "Actual": ""
+  },
+  {
+    "NO": 50,
+    "date": "05-04-2020",
+    "Predicted_NoAtGujarat_Model_1_A": 3458,
+    "Lower Limit": 1212,
+    "Upper Limit": 5704,
+    "Actual": ""
+  },
+  {
+    "NO": 51,
+    "date": "05-05-2020",
+    "Predicted_NoAtGujarat_Model_1_A": 3628,
+    "Lower Limit": 1237,
+    "Upper Limit": 6019,
+    "Actual": ""
+  },
+  {
+    "NO": 52,
+    "date": "05-06-2020",
+    "Predicted_NoAtGujarat_Model_1_A": 3801,
+    "Lower Limit": 1263,
+    "Upper Limit": 6340,
+    "Actual": ""
+  },
+  {
+    "NO": 53,
+    "date": "05-07-2020",
+    "Predicted_NoAtGujarat_Model_1_A": 3978,
+    "Lower Limit": 1289,
+    "Upper Limit": 6667,
+    "Actual": ""
+  },
+  {
+    "NO": 54,
+    "date": "05-08-2020",
+    "Predicted_NoAtGujarat_Model_1_A": 4158,
+    "Lower Limit": 1315,
+    "Upper Limit": 7001,
+    "Actual": ""
+  },
+  {
+    "NO": 55,
+    "date": "05-09-2020",
+    "Predicted_NoAtGujarat_Model_1_A": 4341,
+    "Lower Limit": 1342,
+    "Upper Limit": 7341,
+    "Actual": ""
+  },
+  {
+    "NO": 56,
+    "date": "05-10-2020",
+    "Predicted_NoAtGujarat_Model_1_A": 4528,
+    "Lower Limit": 1369,
+    "Upper Limit": 7687,
+    "Actual": ""
+  },
+  {
+    "NO": 57,
+    "date": "05-11-2020",
+    "Predicted_NoAtGujarat_Model_1_A": 4718,
+    "Lower Limit": 1397,
+    "Upper Limit": 8039,
+    "Actual": ""
+  },
+  {
+    "NO": 58,
+    "date": "05-12-2020",
+    "Predicted_NoAtGujarat_Model_1_A": 4911,
+    "Lower Limit": 1426,
+    "Upper Limit": 8397,
+    "Actual": ""
+  },
+  {
+    "NO": 59,
+    "date": "5/13/2020",
+    "Predicted_NoAtGujarat_Model_1_A": 5108,
+    "Lower Limit": 1455,
+    "Upper Limit": 8761,
+    "Actual": ""
+  },
+  {
+    "NO": 60,
+    "date": "5/14/2020",
+    "Predicted_NoAtGujarat_Model_1_A": 5308,
+    "Lower Limit": 1485,
+    "Upper Limit": 9131,
+    "Actual": ""
+  },
+  {
+    "NO": 61,
+    "date": "5/15/2020",
+    "Predicted_NoAtGujarat_Model_1_A": 5511,
+    "Lower Limit": 1516,
+    "Upper Limit": 9507,
+    "Actual": ""
+  },
+  {
+    "NO": 62,
+    "date": "5/16/2020",
+    "Predicted_NoAtGujarat_Model_1_A": 5718,
+    "Lower Limit": 1548,
+    "Upper Limit": 9888,
+    "Actual": ""
+  },
+  {
+    "NO": 63,
+    "date": "5/17/2020",
+    "Predicted_NoAtGujarat_Model_1_A": 5928,
+    "Lower Limit": 1580,
+    "Upper Limit": 10276,
+    "Actual": ""
+  },
+  {
+    "NO": 64,
+    "date": "5/18/2020",
+    "Predicted_NoAtGujarat_Model_1_A": 6141,
+    "Lower Limit": 1614,
+    "Upper Limit": 10669,
+    "Actual": ""
+  },
+  {
+    "NO": 65,
+    "date": "5/19/2020",
+    "Predicted_NoAtGujarat_Model_1_A": 6358,
+    "Lower Limit": 1648,
+    "Upper Limit": 11068,
+    "Actual": ""
+  },
+  {
+    "NO": 66,
+    "date": "5/20/2020",
+    "Predicted_NoAtGujarat_Model_1_A": 6578,
+    "Lower Limit": 1683,
+    "Upper Limit": 11473,
+    "Actual": ""
+  },
+  {
+    "NO": 67,
+    "date": "5/21/2020",
+    "Predicted_NoAtGujarat_Model_1_A": 6801,
+    "Lower Limit": 1719,
+    "Upper Limit": 11883,
+    "Actual": ""
+  },
+  {
+    "NO": 68,
+    "date": "5/22/2020",
+    "Predicted_NoAtGujarat_Model_1_A": 7028,
+    "Lower Limit": 1757,
+    "Upper Limit": 12299,
+    "Actual": ""
+  },
+  {
+    "NO": 69,
+    "date": "5/23/2020",
+    "Predicted_NoAtGujarat_Model_1_A": 7258,
+    "Lower Limit": 1795,
+    "Upper Limit": 12721,
+    "Actual": ""
+  },
+  {
+    "NO": 70,
+    "date": "5/24/2020",
+    "Predicted_NoAtGujarat_Model_1_A": 7491,
+    "Lower Limit": 1834,
+    "Upper Limit": 13148,
+    "Actual": ""
+  },
+  {
+    "NO": 71,
+    "date": "5/25/2020",
+    "Predicted_NoAtGujarat_Model_1_A": 7728,
+    "Lower Limit": 1875,
+    "Upper Limit": 13581,
+    "Actual": ""
+  },
+  {
+    "NO": 72,
+    "date": "5/26/2020",
+    "Predicted_NoAtGujarat_Model_1_A": 7968,
+    "Lower Limit": 1916,
+    "Upper Limit": 14020,
+    "Actual": ""
+  },
+  {
+    "NO": 73,
+    "date": "5/27/2020",
+    "Predicted_NoAtGujarat_Model_1_A": 8211,
+    "Lower Limit": 1959,
+    "Upper Limit": 14464,
+    "Actual": ""
+  },
+  {
+    "NO": 74,
+    "date": "5/28/2020",
+    "Predicted_NoAtGujarat_Model_1_A": 8458,
+    "Lower Limit": 2003,
+    "Upper Limit": 14913,
+    "Actual": ""
+  },
+  {
+    "NO": 75,
+    "date": "5/29/2020",
+    "Predicted_NoAtGujarat_Model_1_A": 8708,
+    "Lower Limit": 2048,
+    "Upper Limit": 15368,
+    "Actual": ""
+  },
+  {
+    "NO": 76,
+    "date": "5/30/2020",
+    "Predicted_NoAtGujarat_Model_1_A": 8961,
+    "Lower Limit": 2094,
+    "Upper Limit": 15828,
+    "Actual": ""
+  },
+  {
+    "NO": 77,
+    "date": "5/31/2020",
+    "Predicted_NoAtGujarat_Model_1_A": 9218,
+    "Lower Limit": 2142,
+    "Upper Limit": 16294,
+    "Actual": ""
+  }
+]
